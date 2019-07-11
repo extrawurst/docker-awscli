@@ -1,4 +1,7 @@
 # docker-awscli
-minimalistic docker container for awscli
+lightweight (**30 MB**) docker container for [awscli](https://github.com/aws/aws-cli) based on [alpine](https://alpinelinux.org)
 
-most recent supported version: [1.16.195](https://libraries.io/pypi/awscli/1.16.195)
+Great for build pipelines using docker!
+
+most recent supported version: 
+[1.16.196](https://libraries.io/pypi/awscli/1.16.196)
