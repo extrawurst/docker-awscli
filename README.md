@@ -4,4 +4,4 @@ lightweight (**30 MB**) docker container for [awscli](https://github.com/aws/aws
 Great for build pipelines using docker!
 
 most recent supported version: 
-[1.16.201](https://libraries.io/pypi/awscli/1.16.201)
+[1.16.202](https://libraries.io/pypi/awscli/1.16.202)
